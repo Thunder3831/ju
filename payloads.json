@@ -2,7 +2,7 @@
 	  {
 		"name": "WebKit-Autoloader-Installer",
 		"filename": "WebKit-Autoloader-Installer_vt0.5.2.1.elf",
-		"url": "https://github.com/Thunder3831/ju/blob/main/payloads/WebKit-Autoloader-Installer_vt0.5.2.1.elf",
+		"url": "https://raw.githubusercontent.com/Thunder3831/ju/main/payloads/WebKit-Autoloader-Installer_vt0.5.2.1.elf"و
 		"source": "https://github.com/Thunder3831/ju/tree/main/payloads",
 		"source_direct": "https://github.com/Thunder3831/ju/blob/main/payloads/WebKit-Autoloader-Installer_vt0.5.2.1.elf",
 		"description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
