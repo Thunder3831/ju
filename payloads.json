@@ -10,18 +10,6 @@
 		"version": "vt0.5.2.1",
 		"category": "Loaders",
 		"checksum": "3BE3F74029792E7A30D00FA282D82A95195A0B7F8A6950C3E097DD1723698309"
-	  },
-	  {
-		"name": "Payload Manager (Approved Mirror)",
-		"filename": "Payload-Manager_v0.5.2-approved.elf",
-		"url": "https://raw.githubusercontent.com/Thunder3831/ju/main/payloads/Payload-Manager_v0.5.2-approved.elf",
-		"source": "https://github.com/Thunder3831/ju/tree/main/payloads",
-		"source_direct": "https://raw.githubusercontent.com/Thunder3831/ju/main/payloads/Payload-Manager_v0.5.2-approved.elf",
-		"description": "Payload Manager using the approved mirror repository",
-		"last_update": "2026-10-04",
-		"version": "v0.5.2-approved",
-		"category": "Tools",
-		"checksum": "CF9C118BB3FF80087D2A6B53F9F0598AA5FD79FCFAA76929BA506DD70CD14D52"
 	  }
  ]
  
